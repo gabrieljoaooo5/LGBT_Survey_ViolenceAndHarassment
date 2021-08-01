@@ -4,6 +4,7 @@
 
 - [Project](#project)
 - [File Descriptions](#file-descriptions)
+- [Medium](#medium)
 
 ## Project
 
@@ -16,3 +17,6 @@ In this project, I will analyze a survey about violence and harassment against L
 
 - **data folder**: Contains the dataset. If you want to download, check out: https://www.kaggle.com/ruslankl/european-union-lgbt-survey-2012.
  - **src folder**: Contains the jupyter notebook.
+
+## Medium
+Read my article on Medium about this analysis: https://medium.com/@jgsa/violence-and-harassment-against-lgbtqia-people-a-look-into-the-data-fec12fb82196
